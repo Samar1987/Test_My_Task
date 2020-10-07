@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromotionEngine", "PromotionEngine.csproj", "{692C1393-70CC-4E22-9105-57F9A934C9B3}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromotionEngineTest", "..\PromotionEngineTest\PromotionEngineTest.csproj", "{8DD96880-AF9A-4D2B-822F-FFC2C4C312BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PromotionEngine", "PromotionEngine.csproj", "{692C1393-70CC-4E22-9105-57F9A934C9B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{692C1393-70CC-4E22-9105-57F9A934C9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{692C1393-70CC-4E22-9105-57F9A934C9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{692C1393-70CC-4E22-9105-57F9A934C9B3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8DD96880-AF9A-4D2B-822F-FFC2C4C312BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8DD96880-AF9A-4D2B-822F-FFC2C4C312BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8DD96880-AF9A-4D2B-822F-FFC2C4C312BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8DD96880-AF9A-4D2B-822F-FFC2C4C312BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
